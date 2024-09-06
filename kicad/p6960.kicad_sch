@@ -1061,7 +1061,7 @@
 				)
 			)
 		)
-		(symbol "tek:P9660"
+		(symbol "tek:P6960"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1082,7 +1082,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "Tek:P9660"
+			(property "Footprint" "Tek:P6960"
 				(at 57.912 0.254 0)
 				(effects
 					(font
@@ -1108,7 +1108,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "P9660_1_1"
+			(symbol "P6960_1_1"
 				(pin input line
 					(at 3.81 38.1 180)
 					(length 2.54)
@@ -5942,7 +5942,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d55")
 		)
 		(instances
 			(project ""
@@ -6009,7 +6009,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d56")
 		)
 		(instances
 			(project ""
@@ -6473,7 +6473,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d57")
 		)
 		(instances
 			(project ""
@@ -6650,7 +6650,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d58")
 		)
 		(instances
 			(project ""
@@ -6783,7 +6783,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d59")
 		)
 		(instances
 			(project ""
@@ -6916,7 +6916,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5a")
 		)
 		(instances
 			(project ""
@@ -6983,7 +6983,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5b")
 		)
 		(instances
 			(project ""
@@ -7050,7 +7050,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5c")
 		)
 		(instances
 			(project ""
@@ -7249,7 +7249,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5d")
 		)
 		(instances
 			(project ""
@@ -7450,7 +7450,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5e")
 		)
 		(instances
 			(project ""
@@ -7517,7 +7517,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d5f")
 		)
 		(instances
 			(project ""
@@ -7694,7 +7694,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d60")
 		)
 		(instances
 			(project ""
@@ -8029,7 +8029,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d61")
 		)
 		(instances
 			(project ""
@@ -8734,7 +8734,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d62")
 		)
 		(instances
 			(project ""
@@ -8935,7 +8935,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d63")
 		)
 		(instances
 			(project ""
@@ -8947,7 +8947,7 @@
 		)
 	)
 	(symbol
-		(lib_id "tek:P9660")
+		(lib_id "tek:P6960")
 		(at 146.05 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8973,7 +8973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Tek:P9660"
+		(property "Footprint" "Tek:P6960"
 			(at 140.335 35.2368 0)
 			(effects
 				(font
@@ -9226,7 +9226,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d64")
 		)
 		(instances
 			(project ""
@@ -9293,7 +9293,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d54")
+			(uuid "4faa9182-9b37-47fc-bb29-3a1d6de52d65")
 		)
 		(instances
 			(project ""
