@@ -2,4 +2,5 @@ p9660/p9660-backups/
 *.lck
 kicad/fp-info-cache
 kicad/p9660-backups/
+kicad\p9660-backups\
 kicad/fp-info-cache

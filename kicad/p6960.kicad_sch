@@ -8973,7 +8973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Tek:P69xx"
+		(property "Footprint" "Tek:P6960"
 			(at 140.335 35.2368 0)
 			(effects
 				(font
