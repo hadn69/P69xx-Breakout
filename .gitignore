@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+kicad/gerbers.zip
+/kicad/gerbers
+kicad/~p6960.kicad_sch.lck

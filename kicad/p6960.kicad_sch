@@ -4982,7 +4982,7 @@
 			)
 		)
 	)
-	(global_label "CK1+"
+	(global_label "CK1-"
 		(shape input)
 		(at 124.46 128.27 180)
 		(fields_autoplaced yes)
@@ -5686,7 +5686,7 @@
 			)
 		)
 	)
-	(global_label "CK1-"
+	(global_label "CK1+"
 		(shape input)
 		(at 124.46 132.08 180)
 		(fields_autoplaced yes)
@@ -8973,7 +8973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Tek:P6960"
+		(property "Footprint" "Tek:P69xx"
 			(at 140.335 35.2368 0)
 			(effects
 				(font
